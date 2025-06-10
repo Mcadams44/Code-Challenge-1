@@ -49,5 +49,9 @@
   - Adjusted fee based on min/max limits
   - Total amount to be debited
 
+### Authored By
+- Mcadams Njogu
 
+### License
+- GNU
 
