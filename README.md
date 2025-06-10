@@ -1,5 +1,5 @@
 
-#  Challenge 1: Chai Bora Ingredient Calculator ☕
+#  Challenge 1: Chai Bora Ingredient Calculator 
 
 **Objective**: Calculate the ingredients needed to make a specific number of cups of Kenyan chai.
 
@@ -32,7 +32,7 @@
   - Distance-based charge
   - Total fare
 
-#  Challenge 3: Simplified Mobile Money Transaction Fee Estimator 📱
+#  Challenge 3: Simplified Mobile Money Transaction Fee Estimator 
 
 **Objective**: Estimate mobile money transaction fees based on the amount sent.
 
