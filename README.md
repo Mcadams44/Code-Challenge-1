@@ -15,8 +15,6 @@
 - Takes user input (number of cups) and calculates the quantities of ingredients.
 - Prints the required ingredients in a clear format.
 
-###  Example Output (3 cups):
-
 
 #  Challenge 2: Boda Boda Ride Fare Estimator 
 
@@ -33,9 +31,6 @@
   - Base fare
   - Distance-based charge
   - Total fare
-
-###  Example Output (5 km):
-
 
 #  Challenge 3: Simplified Mobile Money Transaction Fee Estimator 📱
 
@@ -54,12 +49,5 @@
   - Adjusted fee based on min/max limits
   - Total amount to be debited
 
-###  Example Outputs:
-#### Scenario 1: KES 500
 
-#### Scenario 2: KES 2000
-
-#### Scenario 3: KES 10000
-
----
 
